@@ -1,6 +1,6 @@
 
 # Accessibility Acceptance Criteria
-These criteria are specific for any HTML content.
+These criteria are specific to any HTML content.
 
 ## AAC1 Keyboard access
 Given I am a keyboard user when I encounter interactive content then I can control it solely from the keyboard.
@@ -15,7 +15,7 @@ Given I use a browser to view web content when I load a new page then I can unde
 Given I navigate with a keyboard when I Tab to links and form controls then I can locate where I am on the page.
 
 ## AAC5 Semantic markup used appropriately
-Given I navigate with assistive technology when I encounter content which looks different then I can perceive this difference. E.g. heading structure, ordered and unordered lists. 
+Given I navigate with assistive technology when I encounter content that looks different then I can perceive this difference. E.g. including (but not limited to) heading structure, ordered and unordered lists. 
 
 ## AAC6 Form control labelling and inline errors
 Given I use a screen reader when I focus on form controls then I can understand what type of data is required.
