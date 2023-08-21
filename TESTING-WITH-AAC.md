@@ -5,7 +5,7 @@
 |**AAC1**   |Can complex components be navigated using the arrow keys? e.g. expanding combo boxes, navigating Tabs   | Use arrow keys and spacebar to navigate through buttons and form controls  |
 | **AAC1**  | Can a popup be opened and closed solely from the keyboard?  | 1. Use <kbd>Tab</kbd> and <kbd>Shift</kbd> + <kbd>Tab</kbd> to navigate to open and close popup<br>2. Use <kbd>Enter</kbd> or <kbd>Escape</kbd> to close the popup   |
 |**AAC1**   |Can tooltips and hover content be triggered from the keyboard?   | Use <kbd>Tab</kbd> and <kbd>Shift</kbd> + <kbd>Tab</kbd> to navigate to open hover content  |
-|**AAC2**   | Do tooltips (hover content) remain visible when I move the pointer over the tooltip?  | 1. Hover over an element that triggers additional content. 2. Move the pointer over the additional content. Check the additional content is still visible. |
+|**AAC2**   | Do tooltips (hover content) remain visible when I move the pointer over the tooltip?  | 1. Hover over an element that triggers additional content. <br>2. Move the pointer over the additional content. Check the additional content is still visible. |
 |**AAC3**   | Is the page title and website in the tab bar in some format?  | Look at the browser tab to see the title text in use  |
 | **AAC4**  |When the Tab key is pressed is the keyboard focus clearly identified on all focusable elements?   | Use <kbd>Tab</kbd> and <kbd>Shift</kbd> + <kbd>Tab</kbd> to navigate through links, buttons and form controls  |
 | **AAC5**  | Are `<ol>`,`<ul>` elements used for related collections of information such as links, or collections of items?  | 1. Right-click and select **Inspect**<br>2. Select the 1st item in a related collection and inspect the HTML, check for `<ol>` or `<ul>` elements  |
